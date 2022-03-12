@@ -3,7 +3,7 @@
 --------
 --------
 clone the git repo:
-git clone --branch master --single-branch --depth 1 --no-tags   https://github.com/nmarianne/pyspark-setup-demo.git
+git clone --branch master --single-branch --depth 1 --no-tags  https://github.com/nmfc2003/pyspark-setup-demo.git
 
 change dir to the repo dir:
 cd pyspark-setup-demo
